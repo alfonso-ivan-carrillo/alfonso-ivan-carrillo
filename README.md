@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Alfonso Carrillo.
+### Hi there 👋, my name is Alfonso Carrillo
+ 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Java, MySQL and Spring at Codeup. 
 <!--
 **alfonso-ivan-carrillo/alfonso-ivan-carrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
