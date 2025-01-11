@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Alfonso Carrillo
- 
+###       <div align="center"><p><h1>Hi there 👋, my name is Alfonso Carrillo</h1></p></div>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&center=true&width=800&lines=I+am+a+Junior+Software+Developer.;Welcome+to+my+GitHub+profile.+)](https://git.io/typing-svg)
 - 🌱 With over 20 years of experience in the insurance industry and a strong background in customer relationship management, I made a strategic career shift into software development to embrace new challenges and opportunities in technology.
 - 🌱 I successfully completed a rigorous 6-month bootcamp with **Codeup**, where I gained hands-on experience in a variety of technologies, including HTML, CSS, Bootstrap, JavaScript, JQuery, Java, and Spring Boot.
 - 🔭 Currently, I work as a Full Stack Software Development Contractor, focusing on application modernization for the United States Air Force. In this role, I leverage my technical expertise to enhance and optimize legacy systems, ensuring they meet the evolving needs of the military. Additionally, I hold an active government security clearance, enabling me to contribute to sensitive and mission-critical projects.
